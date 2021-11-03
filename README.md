@@ -25,3 +25,20 @@ This open source library is available to summarize several years of research pap
 
 # 2019
 
+| Year | Venue   | Title                                                        | Paper                                                        | Code                                                         |
+| ---- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2019 | CIKM    | Order-free Medicine Combination Prediction with Graph Convolutional Reinforcement Learning | [Link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-order-free.pdf) | [Link](https://github.com/WOW5678/CompNet)                   |
+| 2019 | AISTATS | Representation Learning on Graphs: A Reinforcement Learning Application | [Link](http://proceedings.mlr.press/v89/madjiheurem19a/madjiheurem19a.pdf) | [Link](https://github.com/LASP-UCL/Graph-RL)                 |
+| 2019 | arXiv   | Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case | [Link](https://arxiv.org/pdf/1910.07421v2.pdf)               | [Link](https://github.com/knowledgedefinednetworking/DRL-GNN) |
+| 2019 | arXiv   | Auto-GNN: Neural Architecture Search of Graph Neural Networks | [Link](https://arxiv.org/pdf/1909.03184.pdf)                 | -                                                            |
+| 2019 | NeurIPS | Learning Transferable Graph Exploration                      | [Link](https://proceedings.neurips.cc/paper/2019/file/afe434653a898da20044041262b3ac74-Paper.pdf) | -                                                            |
+
+# 2018
+
+| Year | Venue | Title | Paper | Code |
+| ---- | ----- | ----- | ----- | ---- |
+|      |       |       |       |      |
+|      |       |       |       |      |
+|      |       |       |       |      |
+|      |       |       |       |      |
+|      |       |       |       |      |

@@ -35,10 +35,14 @@ This open source library is available to summarize several years of research pap
 
 # 2018
 
-| Year | Venue | Title | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
-|      |       |       |       |      |
-|      |       |       |       |      |
-|      |       |       |       |      |
-|      |       |       |       |      |
-|      |       |       |       |      |
+| Year | Venue | Title                                                        | Paper                                                      | Code                                       |
+| ---- | ----- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------ |
+| 2018 | arXiv | Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation | [Link](https://arxiv.org/pdf/1810.09202v1.pdf)             | [Link](https://github.com/PKU-AI-Edge/DGN) |
+| 2018 | ICML  | Adversarial Attack on Graph Structured Data                  | [Link](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf) | -                                          |
+| 2018 |       | Graph convolutional policy network for goal-directed molecular graph generation |                                                            |                                            |
+| 2018 |       | Graph Transformation Policy Network for Chemical Reaction Prediction |                                                            |                                            |
+| 2018 |       | NerveNet: Learning Structured Policy with Graph Neural Networks |                                                            |                                            |
+| 2018 |       | Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning |                                                            |                                            |
+| 2018 |       | Structured Dialogue Policy with Graph Neural Networks        |                                                            |                                            |
+| 2018 |       | Relational inductive bias for physical construction in humans and machines |                                                            |                                            |
+| 2018 |       | Action Schema Networks: Generalised Policies with Deep Learning |                                                            |                                            |

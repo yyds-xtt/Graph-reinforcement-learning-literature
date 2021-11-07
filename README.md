@@ -1,5 +1,15 @@
 # Graph-reinforcement-learning-literature
-This open source library is available to summarize several years of research papers on graph reinforcement learning for the convenience of researchers
+This open source library is available to summarize several years of research papers on graph reinforcement learning for the convenience of researchers.
+
+For any ideas and literature on graph reinforcement learning, please contact me.
+
+
+
+Mingshuo Nie,
+
+Northeastern University, China.
+
+E: niemingshuo@stumail.neu.edu.cn
 
 # 2021
 
@@ -32,17 +42,18 @@ This open source library is available to summarize several years of research pap
 | 2019 | arXiv   | Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case | [Link](https://arxiv.org/pdf/1910.07421v2.pdf)               | [Link](https://github.com/knowledgedefinednetworking/DRL-GNN) |
 | 2019 | arXiv   | Auto-GNN: Neural Architecture Search of Graph Neural Networks | [Link](https://arxiv.org/pdf/1909.03184.pdf)                 | -                                                            |
 | 2019 | NeurIPS | Learning Transferable Graph Exploration                      | [Link](https://proceedings.neurips.cc/paper/2019/file/afe434653a898da20044041262b3ac74-Paper.pdf) | -                                                            |
+| 2019 | KDD     | Graph Transformation Policy Network for Chemical Reaction Prediction | [Link](https://arxiv.org/pdf/1812.09441.pdf)                 | -                                                            |
 
 # 2018
 
-| Year | Venue | Title                                                        | Paper                                                      | Code                                       |
-| ---- | ----- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------ |
-| 2018 | arXiv | Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation | [Link](https://arxiv.org/pdf/1810.09202v1.pdf)             | [Link](https://github.com/PKU-AI-Edge/DGN) |
-| 2018 | ICML  | Adversarial Attack on Graph Structured Data                  | [Link](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf) | -                                          |
-| 2018 |       | Graph convolutional policy network for goal-directed molecular graph generation |                                                            |                                            |
-| 2018 |       | Graph Transformation Policy Network for Chemical Reaction Prediction |                                                            |                                            |
-| 2018 |       | NerveNet: Learning Structured Policy with Graph Neural Networks |                                                            |                                            |
-| 2018 |       | Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning |                                                            |                                            |
-| 2018 |       | Structured Dialogue Policy with Graph Neural Networks        |                                                            |                                            |
-| 2018 |       | Relational inductive bias for physical construction in humans and machines |                                                            |                                            |
-| 2018 |       | Action Schema Networks: Generalised Policies with Deep Learning |                                                            |                                            |
+| Year | Venue   | Title                                                        | Paper                                                        | Code                                                      |
+| ---- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 2018 | arXiv   | Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation | [Link](https://arxiv.org/pdf/1810.09202v1.pdf)               | [Link](https://github.com/PKU-AI-Edge/DGN)                |
+| 2018 | ICML    | Adversarial Attack on Graph Structured Data                  | [Link](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf)   | -                                                         |
+| 2018 | NeurIPS | Graph convolutional policy network for goal-directed molecular graph generation | [Link](https://arxiv.org/pdf/1806.02473.pdf)                 | [Link](https://github.com/bowenliu16/rl_graph_generation) |
+| 2018 | ICLR    | NerveNet: Learning Structured Policy with Graph Neural Networks | [Link](https://openreview.net/pdf?id=S1sqHMZCb)              | -                                                         |
+| 2018 | arXiv   | Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning | [Link](https://arxiv.org/pdf/1812.01628.pdf)                 | [Link](https://github.com/rajammanabrolu/KG-DQN)          |
+| 2018 | COLING  | Structured Dialogue Policy with Graph Neural Networks        | [Link](https://aclanthology.org/C18-1107.pdf)                | -                                                         |
+| 2018 | arXiv   | Relational inductive bias for physical construction in humans and machines | [Link](https://arxiv.org/pdf/1806.01203.pdf)                 | -                                                         |
+| 2018 | AAAI    | Action Schema Networks: Generalised Policies with Deep Learning | [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17207/16202) | [Link](https://github.com/qxcv/asnets)                    |
+
